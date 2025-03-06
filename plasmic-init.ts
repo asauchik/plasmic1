@@ -25,7 +25,7 @@ export const PLASMIC = initPlasmicLoader({
 // PLASMIC.registerComponent(...);
 import { HelloWorld } from './components/HelloWorld';
 
-// ...
+// ..
 
 PLASMIC.registerComponent(HelloWorld, {
   name: 'HelloWorld',
